@@ -116,3 +116,7 @@ describe("The Circle class", () => {
   });
 });
 ```
+
+---
+
+[See on CodeWars.com](https://www.codewars.com/kata/591305520c6f9f5c93000052)
